@@ -7,6 +7,10 @@ The app is built using Streamlit, a powerful yet easy-to-use framework for creat
 This project demonstrates the effective use of machine learning for text generation and highlights the simplicity of deploying AI models using Streamlit. By combining NLP with interactive web technologies, the app not only showcases the potential of Markov Chains in creating human-like lyrics but also illustrates how easily data-driven models can be integrated into user-friendly applications. The use of Streamlit ensures that anyone, from data scientists to non-technical users, can engage with the model and gain insights into how AI understands and replicates natural language patterns.
 
 
+https://github.com/user-attachments/assets/49e3e2d8-3417-4287-9cf8-6f199b418f1d
 
-Uploading music-generator.mp4…
+
+
+
+
 
